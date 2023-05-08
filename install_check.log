@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin arjits-mbp-2.wireless-1x.unc.edu 20.6.0 Darwin Kernel Version 20.6.0: Sun Nov  6 23:17:00 PST 2022; root:xnu-7195.141.46~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/zsh]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Sep 25 2022 22:45:34)
+CURL:	[/usr/bin/curl] curl 7.64.1 (x86_64-apple-darwin20.0) libcurl/7.64.1 (SecureTransport) LibreSSL/2.8.3 zlib/1.2.11 nghttp2/1.41.0
+NODE:	[/Users/arjitghatta/.nvm/versions/node/v18.16.0/bin/node] v18.16.0
